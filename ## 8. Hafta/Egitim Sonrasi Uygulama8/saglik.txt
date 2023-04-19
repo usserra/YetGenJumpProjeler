@@ -1,0 +1,12 @@
+kullanici adi su
+kullanicinin yas, kilo, boy bilgisi 19, 43.0, 1.69
+kullanicinin vucut kitle indexi 150555.0
+deger araligi ileri obez
+olusturma tarihi: Wed Apr 19 22:54:29 2023
+********************
+kullanici adi lu
+kullanicinin yas, kilo, boy bilgisi 14, 44.0, 1.65
+kullanicinin vucut kitle indexi 161616.2
+deger araligi ileri obez
+olusturma tarihi: Wed Apr 19 22:54:40 2023
+********************
